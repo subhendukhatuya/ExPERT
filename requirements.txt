@@ -1,0 +1,7 @@
+numpy
+pickle5
+torch
+einops
+sentence_transformers
+tqdm
+pandas
